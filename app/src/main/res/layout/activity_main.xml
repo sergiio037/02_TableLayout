@@ -13,7 +13,8 @@
             android:layout_column="1"
             android:layout_margin="20sp"
             android:background="@drawable/ciruculo"
-            android:backgroundTint="#00F1FA" />
+            android:backgroundTint="#00F1FA"
+            android:text=""/>
         <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
             android:id="@+id/lytContenedor2"
             android:layout_width="wrap_content"
